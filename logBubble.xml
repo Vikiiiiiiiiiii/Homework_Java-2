@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-11T18:11:55.082412800Z</date>
+  <millis>1678558315082</millis>
+  <nanos>412800</nanos>
+  <sequence>0</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.156051Z</date>
+  <millis>1678558315156</millis>
+  <nanos>51000</nanos>
+  <sequence>1</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Исходный массив: [65, 22, 15, 12, 24, 10, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.158043300Z</date>
+  <millis>1678558315158</millis>
+  <nanos>43300</nanos>
+  <sequence>2</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Промежуточный результат на 1-й итерации: [22, 15, 12, 24, 10, 65, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.159045800Z</date>
+  <millis>1678558315159</millis>
+  <nanos>45800</nanos>
+  <sequence>3</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Промежуточный результат на 2-й итерации: [15, 12, 22, 10, 24, 65, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.162044400Z</date>
+  <millis>1678558315162</millis>
+  <nanos>44400</nanos>
+  <sequence>4</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Промежуточный результат на 3-й итерации: [12, 15, 10, 22, 24, 65, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.165047100Z</date>
+  <millis>1678558315165</millis>
+  <nanos>47100</nanos>
+  <sequence>5</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Промежуточный результат на 4-й итерации: [12, 10, 15, 22, 24, 65, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.170046700Z</date>
+  <millis>1678558315170</millis>
+  <nanos>46700</nanos>
+  <sequence>6</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Промежуточный результат на 5-й итерации: [10, 12, 15, 22, 24, 65, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.173640800Z</date>
+  <millis>1678558315173</millis>
+  <nanos>640800</nanos>
+  <sequence>7</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Промежуточный результат на 6-й итерации: [10, 12, 15, 22, 24, 65, 70]</message>
+</record>
+<record>
+  <date>2023-03-11T18:11:55.176642400Z</date>
+  <millis>1678558315176</millis>
+  <nanos>642400</nanos>
+  <sequence>8</sequence>
+  <logger>decision_1</logger>
+  <level>INFO</level>
+  <class>decision_1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Отсортированный массив: [10, 12, 15, 22, 24, 65, 70]</message>
+</record>
+</log>
